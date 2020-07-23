@@ -2,6 +2,8 @@ aquí la idea es poner el calendario de eventos:
 
 CABECERA
 	Alguien se preguntará si será que el peje usa metodología SCRUM?
+	Si, por aquello de las mañaneras
+	Aunque le falto leer que son de 10 a 15 minutos, je je je!
 
 1. Cita 1
 2. Cita 2 (con la duende)
