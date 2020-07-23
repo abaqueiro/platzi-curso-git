@@ -4,5 +4,5 @@ CABECERA
 	Alguien se preguntará si será que el peje usa metodología SCRUM?
 
 1. Cita 1
-2. Cita 2
+2. Cita 2 (con la duende)
 
